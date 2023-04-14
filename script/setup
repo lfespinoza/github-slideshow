@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#aca tambien agrego comentarios sin alterar el contenido del scrip#aca tambien agrego comentarios sin alterar el contenido del scriptt
 set -e
 
 cd "$(dirname "$0")/.."
